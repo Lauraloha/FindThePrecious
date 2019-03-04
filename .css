@@ -1,4 +1,6 @@
-body {margin:30px;padding:30px}
+html, body {
+margin:30px;padding:30px
+}
 
 body,p {
 font-family: 'Lato', sans-serif; font-size:14px;
